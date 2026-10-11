@@ -1,0 +1,13 @@
+# Environnements virtuels (créés par uv ou venv)
+.venv/
+.env/
+.env
+
+# Données (à placer dans data/raw/)
+data/
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
